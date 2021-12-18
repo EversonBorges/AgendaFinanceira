@@ -1,0 +1,28 @@
+
+  .container{
+    width:100px;
+    height:100px;
+    border:solid 2px;
+    color: rgb(197, 197, 206);
+    box-shadow: 10px 10px 10px 5px rgb(141, 137, 137);
+  }
+
+  .header {
+    display: flex;
+    height: 70px;
+    align-items: center;
+    justify-content: center;
+    background-color: rgb(20, 158, 158);
+    border-radius: 10px;
+    }
+
+    .logo {
+      width: 90px;
+      padding: 25px 5px 25px 25px;
+    }
+
+    .titulo{
+      color: #ffffff;
+    }
+
+  
